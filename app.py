@@ -83,8 +83,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# App UI
-st.markdown('<div class="main">', unsafe_allow_html=True)
+
 st.title("🎙️ Visual AI Bot")
 st.markdown("Translate and speak your English in multiple languages: **English**, **Urdu**, **Arabic**, **German**.")
 
